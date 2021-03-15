@@ -1,0 +1,19 @@
+{
+  "name": "db.js",
+  "version": "0.0.1",
+  "description": "",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjornarhagen/db.js.git"
+  },
+  "author": "Bjørnar Hagen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bjornarhagen/db.js/issues"
+  },
+  "homepage": "https://github.com/bjornarhagen/db.js#readme"
+}
