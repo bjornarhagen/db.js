@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bjornarhagen/db.js/issues"
   },
-  "homepage": "https://github.com/bjornarhagen/db.js#readme"
+  "homepage": "https://github.com/bjornarhagen/db.js#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
