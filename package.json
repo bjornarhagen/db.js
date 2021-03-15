@@ -1,8 +1,9 @@
 {
-  "name": "@bjornarhagen/db.js",
+  "name": "@bjornarhagen/db_js",
   "version": "0.0.2",
   "description": "",
   "main": "db.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
