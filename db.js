@@ -1,4 +1,4 @@
-export const db = (connectionPool) => {
+exports.db = (connectionPool) => {
   return {
     select: (query, parameters) => {
       return new Promise((resolve, reject) => {
